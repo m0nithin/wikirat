@@ -2,7 +2,7 @@
 
 At the beginning of our road to the moon, we will focus on creating a community that believes in our project and on marketing events and partnerships, especially, in the first three phases of our roadmap.
 
-Marketing for WIKI RAT project through partnering with content creators and providing the community with explanations on the project’s values and how to buy and sell WKR cryptocurrency.
+Marketing for MOUSE COIN project through partnering with content creators and providing the community with explanations on the project’s values and how to buy and sell MOUSE cryptocurrency.
 
 Building communities in the MENA region, Turkey, France, Russia and China.
 
