@@ -19,8 +19,8 @@ Launching our merch, in which 50% of the profits will be allocated to buying bac
 
 ### PHASE - 2
 
-* Influencer Partnership
-* DexTool Update
+* Influener Partnership
+* Dextool Update
 * Twitter Marketing
 * Whitepaper Release
 * More Marketing
@@ -30,7 +30,8 @@ Launching our merch, in which 50% of the profits will be allocated to buying bac
 * CoinMarketCap listing
 * CoinGecko listing
 * CEX listing
-* Staking DAPP
+* WEB3 DAPPs
+* More Updates soon..
 
 **Fourth, fifth and sixth phase**
 
@@ -44,4 +45,4 @@ To add the decentralized part to it, discounts will be offered to those who comp
 
 
 
-token address : 0x60e2c16162D04dDc2a8e61dc822aEba809Ab1C2e
+token address : 0xa91750b85fab00b69ce53031d4c049db8743c545

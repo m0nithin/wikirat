@@ -4,24 +4,25 @@
 
 
 
-| Name             | WIKI RAT                                   |
+| Name             | MOUSE COIN                                 |
 | ---------------- | ------------------------------------------ |
-| Symbol           | WKR                                        |
+| Symbol           | MOUSE                                      |
 | Decimal          | 9                                          |
 | Chain            | BSC                                        |
-| Total Supply     | 1.000.000                                  |
+| Total Supply     | 100,000,000                                |
 | Initial LP       | 1 BNB                                      |
-| Contract Address | 0x60e2c16162D04dDc2a8e61dc822aEba809Ab1C2e |
+| Contract Address | 0xa91750b85fab00b69ce53031d4c049db8743c545 |
 
 
 
 ## BUY / SELL TAX
 
-* 5% Buy Tax
-* 5% sell Tax
+* 4% Buy Tax
+* 4% sell Tax
 
 ## Tax Distribution
 
 * 4% Marketing
-* 1% Auto Burn
+
+
 
