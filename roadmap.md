@@ -37,12 +37,4 @@ Launching our merch, in which 50% of the profits will be allocated to buying bac
 
 In these advanced stages of the road, we will work on building and launching major crypto projects. It should also be noted that these phases are flexible and subject to modification according to the crypto market requirements, in correspondence to that, new projects may be added to these phases in the future.
 
-_**1. WIKI RAT Swap:**_ A platform for exchanging cryptocurrencies.
-
-Although some might find this direction a little odd in a technology-focused project, However, based on market data and our research, we have found that having a luxury clothing brand is a very important direction for our project. We aspire for our WKR brand to compete with the most respective and well-known brands in this field.
-
-To add the decentralized part to it, discounts will be offered to those who complete their purchases using the WKR currency.
-
-
-
-token address : 0xa91750b85fab00b69ce53031d4c049db8743c545
+_****_
