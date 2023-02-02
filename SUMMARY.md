@@ -3,7 +3,7 @@
 * [🐭 What Is MOUSE COIN ??](README.md)
 * [📈 TOKENOMICS](tokenomics.md)
 * [🗺 Roadmap](roadmap.md)
-* [🕸 WEB3 DAPPS](web3-dapps/README.md)
+* [🕸 WEB3 DAPPS](staking-dapp.md)
   * [💰 SWAP](web3-dapps/swap.md)
   * [🤝 Staking Dapp](web3-dapps/staking-dapp.md)
 * [🐁 Website](https://www.mousecoin.world/)
