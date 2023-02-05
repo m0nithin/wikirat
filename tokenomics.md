@@ -17,8 +17,8 @@
 
 ## BUY / SELL TAX
 
-* 6% Buy Tax
-* 6% sell Tax
+* 5% Buy Tax
+* 5% sell Tax
 
 ## MAX Translation
 
