@@ -1,15 +1,31 @@
-# 🐭 What Is MOUSE COIN ??
+# ❔ What Is Shibareum Ai Protocol ??
 
-<figure><img src=".gitbook/assets/1.jpg" alt=""><figcaption><p>MOUSE COIN</p></figcaption></figure>
+<figure><img src=".gitbook/assets/withname.png" alt=""><figcaption><p>Shibareum Ai Protocol</p></figcaption></figure>
 
-## About MOUSE COIN (MOUSE)
+## About Shibareum Ai Protocol ($Shibaip)
 
-#### THE MAIN GOAL OF MINE IS TO CREATE A FULL SUPPORTIVE COMMUNITY
+#### The main goal is to be the part and future of the AI journey
 
-#### TO BRING BACK THE VALUES
+#### To bring back the values
 
-#### SUPPORT IS EVERYTHING IN THESE TIMES
+#### Support is everything in these Times
 
-#### Mouse Coin Is A Fully Community Driven Meme Token Which Aims Is To Run With Cat
 
-### OUR GOAL IS TO CREATE A FULL SUPPORTIVE COMMUNITY TO BRING BACK OLD BSC VALUES.
+
+#### Our Visions is to be a part of the AI journey on the Crypto World
+
+#### Trying to PUSH to MILLIONS
+
+#### More Rewards TO community AND Holders
+
+#### Develop our own WEB3 DApps
+
+#### Develop our own AI
+
+#### Establish a community with tech believer
+
+
+
+### FUTURE IS TODAY
+
+## AI IS THE FUTURE, THE FUTURE IS HERE
