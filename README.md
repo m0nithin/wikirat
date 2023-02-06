@@ -10,11 +10,9 @@
 
 #### Support is everything in these Times
 
-
-
 #### Our Visions is to be a part of the AI journey on the Crypto World
 
-#### Trying to PUSH to MILLIONS
+#### 🔥🔥🔥Trying to PUSH to MILLIONS 🔥🔥🔥
 
 #### More Rewards TO community AND Holders
 
